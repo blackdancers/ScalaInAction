@@ -51,8 +51,8 @@ object OOPInScala {
 
     */
     // 类在构造时，除了方法外都会被执行
-    val p = new Teacher("Spark",6)
-    println(p.age)
+//    val p = new Teacher("Spark",6)
+//    println(p.age)
 
     /**
      * 重载构造器
