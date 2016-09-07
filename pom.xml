@@ -7,7 +7,7 @@
     <groupId>dt-scala</groupId>
     <artifactId>com.dt.scala.hello</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>dt-scala</name>
+    <name>ScalaInAction</name>
     <properties>
         <scala.version>2.10.4</scala.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
