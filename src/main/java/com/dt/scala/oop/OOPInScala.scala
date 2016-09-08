@@ -35,7 +35,7 @@ class Teacher {
 }
 
 /**
- * 有时候不想别人使用默认构造器，我们只需要在类加上private即可
+ * 有时候不想别人使用默认构造器，我们只需要在类加上private即可，变成私有构造器
  * @author TongYing
  */
 class Worker private(val name: String, val age: Int) {
