@@ -17,6 +17,7 @@ class University() {
   private var number = 0
   def aClass(number: Int) {
     this.number += number
+    println(University.stuNo)
   }
 }
 /**
